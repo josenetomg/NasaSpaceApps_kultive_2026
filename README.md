@@ -40,3 +40,8 @@ Nosso backend cruza ambas as fontes e aplica **calibração estatística por reg
                                               ▼
                                     [ App Mobile Flutter ]
                                     (Mapas Offline & Alertas)
+
+```
+---
+## 🏗️ Wiki (Como Fazer)
+* 🔌 **Simulação Hardware (Wokwi):** [Testar Circuito ESP32 Online](https://wokwi.com/projects/480639315244838913)
