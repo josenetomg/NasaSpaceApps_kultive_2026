@@ -10,9 +10,9 @@
 ---
 
 ## 🔗 Links Rápidos (Demonstração)
-* 🎥 **Vídeo Pitch (3 min):** [Assista no YouTube](LINK_DO_SEU_VIDEO)
-* 🔌 **Simulação Hardware (Wokwi):** [Testar Circuito ESP32 Online](LINK_DO_WOKWI)
-* 🌐 **Mockup App Mobile (Web):** [Acessar Mapa Interativo](LINK_DO_MOCKUP_WEB)
+* 🎥 **Vídeo Pitch (3 min):**[Site Demo](https://sites.google.com/view/kultive-app-iot/in%C3%ADcio)
+* 🔌 **Simulação Hardware (Wokwi):** [Testar Circuito ESP32 Online](https://wokwi.com/projects/480639315244838913)
+* 🌐 **Mockup App Mobile (Web):** [Acessar Mapa Interativo](https://sites.google.com/view/kultive-app-iot/simula%C3%A7%C3%A3o-fazenda)
 * ⚡ **API Backend (Swagger):** [Documentação FastAPI](LINK_DA_SUA_API/docs)
 
 ---
