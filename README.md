@@ -44,4 +44,4 @@ Nosso backend cruza ambas as fontes e aplica **calibração estatística por reg
 ```
 ---
 ## 🏗️ Wiki (Como Fazer)
-* 🔌 **Simulação Hardware (Wokwi):** [Testar Circuito ESP32 Online](https://wokwi.com/projects/480639315244838913)
+* 🔌 **Simulação Hardware (Wokwi):** [Testar Circuito ESP32 Online](https://github.com/josenetomg/NasaSpaceApps_kultive_2026/wiki/Simula%C3%A7%C3%A3o-do-ESP32-no-Wokwi)
